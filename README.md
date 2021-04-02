@@ -1,4 +1,4 @@
-# Cálculo de IMC
- Programa feito em python que calcula o seu Índice de Massa Corporal com base na sua altura e peso!
+# BMI Calculation
+ Program created using Python language that calculates the Body Mass Index based on your height and weight!
  
- OBS: Para uma melhor visualização, utilizar o Pycharm.
+ OBS: You should use Pycharm to get a better experience.
